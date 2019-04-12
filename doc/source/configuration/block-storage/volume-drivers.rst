@@ -45,6 +45,9 @@ Driver Configuration Reference
    drivers/hpe-3par-driver
    drivers/hpe-lefthand-driver
    drivers/hp-msa-driver
+   drivers/hds-hnas-driver.rst	
+   drivers/hitachi-storage-volume-driver.rst
+   drivers/hpe-3par-driver	
    drivers/huawei-storage-driver
    drivers/ibm-flashsystem-volume-driver
    drivers/ibm-gpfs-volume-driver
